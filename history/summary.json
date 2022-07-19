@@ -130,19 +130,19 @@
     "url": "https://voxel51.dev.fiftyone.ai",
     "icon": "https://favicons.githubusercontent.com/voxel51.dev.fiftyone.ai",
     "slug": "voxel51-dev-fiftyone-ai",
-    "status": "down",
-    "uptime": "40.66%",
-    "uptimeDay": "40.66%",
-    "uptimeWeek": "40.66%",
-    "uptimeMonth": "40.66%",
-    "uptimeYear": "40.66%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "status": "up",
+    "uptime": "38.37%",
+    "uptimeDay": "38.37%",
+    "uptimeWeek": "38.37%",
+    "uptimeMonth": "38.37%",
+    "uptimeYear": "38.37%",
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-07-19": 13
+      "2022-07-19": 14
     }
   }
 ]
