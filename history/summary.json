@@ -124,5 +124,23 @@
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "voxel51.dev.fiftyone.ai",
+    "url": "https://voxel51.dev.fiftyone.ai",
+    "icon": "https://favicons.githubusercontent.com/voxel51.dev.fiftyone.ai",
+    "slug": "voxel51-dev-fiftyone-ai",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
