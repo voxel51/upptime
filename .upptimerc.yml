@@ -1,31 +1,34 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: voxel51
+repo: upptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: voxel51.com
+    url: https://voxel51.com
+  - name: fiftyone.ai
+    url: https://fiftyone.ai
+  - name: www.voxel51.com
+    url: http://www.voxel51.com
+  - name: voxel51.fiftyone.ai
+    url: https://voxel51.fiftyone.ai
+  - name: docs.voxel51.com
+    url: https://docs.voxel51.com
+  - name: pypi.fiftyone.ai
+    url: https://pypi.fiftyone.ai
+    expectedStatusCodes:
+      - 401
+  - name: pypi.voxel51.com
+    url: https://pypi.voxel51.com
+assignees:
+  - findtopher
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: upptime.voxel51.com
+  logoUrl: https://voxel51.com/images/logo/voxel51-logo-horz-color-600dpi.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**fiftyone** is the open-source tool for building high-quality datasets and computer vision models."
+  introMessage: "This is the [Upptime](https://github.com/upptime/upptime) status page for (Voxel51)(https://voxel51.com)."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: FiftyOne
+      href: https://github.com/voxel51/fiftyone
+    - title: Voxel51
+      href: https://voxel51.com
