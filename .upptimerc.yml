@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://voxel51.com/images/logo/voxel51-logo-horz-color-600dpi.png
   name: Upptime
   introTitle: "**fiftyone** is the open-source tool for building high-quality datasets and computer vision models."
-  introMessage: "This is the [Upptime](https://github.com/upptime/upptime) status page for (Voxel51)(https://voxel51.com)."
+  introMessage: "This is the [Upptime](https://github.com/upptime/upptime) status page for [Voxel51](https://voxel51.com)."
   navbar:
     - title: Status
       href: /
