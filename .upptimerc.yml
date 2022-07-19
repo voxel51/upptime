@@ -17,6 +17,8 @@ sites:
       - 401
   - name: pypi.voxel51.com
     url: https://pypi.voxel51.com
+  - name: voxel51.dev.fiftyone.ai
+    url: https://voxel51.dev.fiftyone.ai
 assignees:
   - findtopher
 status-website:
