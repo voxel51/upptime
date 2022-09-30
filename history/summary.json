@@ -58,18 +58,19 @@
     "url": "https://voxel51.fiftyone.ai",
     "icon": "https://favicons.githubusercontent.com/voxel51.fiftyone.ai",
     "slug": "voxel51-fiftyone-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 305,
-    "timeDay": 378,
-    "timeWeek": 279,
-    "timeMonth": 333,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 309,
+    "timeWeek": 274,
+    "timeMonth": 331,
+    "timeYear": 304,
     "dailyMinutesDown": {
+      "2022-09-30": 0,
       "2022-09-21": 29
     }
   },
@@ -96,9 +97,9 @@
     "url": "https://pypi.fiftyone.ai",
     "icon": "https://favicons.githubusercontent.com/pypi.fiftyone.ai",
     "slug": "pypi-fiftyone-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +108,18 @@
     "timeWeek": 331,
     "timeMonth": 270,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   },
   {
     "name": "pypi.voxel51.com",
     "url": "https://pypi.voxel51.com",
     "icon": "https://favicons.githubusercontent.com/pypi.voxel51.com",
     "slug": "pypi-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,24 +128,28 @@
     "timeWeek": 200,
     "timeMonth": 193,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   },
   {
     "name": "voxel51.dev.fiftyone.ai",
     "url": "https://voxel51.dev.fiftyone.ai",
     "icon": "https://favicons.githubusercontent.com/voxel51.dev.fiftyone.ai",
     "slug": "voxel51-dev-fiftyone-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 436,
-    "timeWeek": 287,
-    "timeMonth": 302,
-    "timeYear": 305,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 348,
+    "timeWeek": 284,
+    "timeMonth": 301,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   }
 ]
