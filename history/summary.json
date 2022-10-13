@@ -22,18 +22,20 @@
     "url": "https://fiftyone.ai",
     "icon": "https://icons.duckduckgo.com/ip3/fiftyone.ai.ico",
     "slug": "fiftyone-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 177,
-    "timeWeek": 301,
-    "timeMonth": 274,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 298,
+    "timeWeek": 316,
+    "timeMonth": 279,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "www.voxel51.com",
