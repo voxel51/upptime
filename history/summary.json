@@ -60,9 +60,9 @@
     "slug": "voxel51-fiftyone-ai",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 296,
     "timeDay": 253,
@@ -70,7 +70,6 @@
     "timeMonth": 269,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-11-20": 8,
       "2022-11-04": 18
     }
   },
@@ -135,9 +134,9 @@
     "slug": "voxel51-dev-fiftyone-ai",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 307,
     "timeDay": 269,
@@ -145,7 +144,6 @@
     "timeMonth": 327,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2022-11-20": 8,
       "2022-11-04": 18
     }
   }
