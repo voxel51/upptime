@@ -4,9 +4,9 @@
     "url": "https://voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.com.ico",
     "slug": "voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 138,
     "timeMonth": 132,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-17": 0
+    }
   },
   {
     "name": "fiftyone.ai",
@@ -40,18 +42,20 @@
     "url": "http://www.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.voxel51.com.ico",
     "slug": "www-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 164,
-    "timeWeek": 199,
-    "timeMonth": 193,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 208,
+    "timeDay": 138,
+    "timeWeek": 188,
+    "timeMonth": 191,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2023-01-17": 0
+    }
   },
   {
     "name": "voxel51.fiftyone.ai",
