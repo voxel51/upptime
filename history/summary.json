@@ -60,9 +60,9 @@
     "slug": "voxel51-fiftyone-ai",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 273,
@@ -70,7 +70,6 @@
     "timeMonth": 303,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-01-25": 7,
       "2022-11-04": 18
     }
   },
@@ -115,9 +114,9 @@
     "url": "https://pypi.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.voxel51.com.ico",
     "slug": "pypi-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +125,9 @@
     "timeWeek": 178,
     "timeMonth": 213,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "voxel51.dev.fiftyone.ai",
@@ -134,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.dev.fiftyone.ai.ico",
     "slug": "voxel51-dev-fiftyone-ai",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.96%",
     "time": 313,
     "timeDay": 262,
     "timeWeek": 296,
     "timeMonth": 336,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 102,
       "2022-11-04": 18
     }
   }
