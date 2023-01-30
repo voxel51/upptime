@@ -96,9 +96,9 @@
     "url": "https://pypi.fiftyone.ai",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.fiftyone.ai.ico",
     "slug": "pypi-fiftyone-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -108,6 +108,7 @@
     "timeMonth": 277,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2023-01-30": 1,
       "2023-01-25": 18
     }
   },
@@ -116,9 +117,9 @@
     "url": "https://pypi.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.voxel51.com.ico",
     "slug": "pypi-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -128,6 +129,7 @@
     "timeMonth": 222,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2023-01-30": 0,
       "2023-01-25": 17
     }
   },
