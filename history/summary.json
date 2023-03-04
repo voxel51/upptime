@@ -40,18 +40,20 @@
     "url": "http://www.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.voxel51.com.ico",
     "slug": "www-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 984,
-    "timeWeek": 1070,
-    "timeMonth": 807,
+    "timeDay": 669,
+    "timeWeek": 981,
+    "timeMonth": 791,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-04": 0
+    }
   },
   {
     "name": "voxel51.fiftyone.ai",
