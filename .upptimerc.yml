@@ -1,6 +1,12 @@
 owner: voxel51
 repo: upptime
 sites:
+  - name: dev.fiftyone.ai
+    url: https://dev.fiftyone.ai
+  - name: staging.fiftyone.ai
+    url: https://staging.fiftyone.ai
+  - name: demo.fiftyone.ai
+    url: https://demo.fiftyone.ai
   - name: voxel51.com
     url: https://voxel51.com
   - name: fiftyone.ai
@@ -17,8 +23,6 @@ sites:
       - 401
   - name: pypi.voxel51.com
     url: https://pypi.voxel51.com
-  - name: voxel51.dev.fiftyone.ai
-    url: https://voxel51.dev.fiftyone.ai
 assignees:
   - findtopher
 status-website:
