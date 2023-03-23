@@ -2,11 +2,11 @@ owner: voxel51
 repo: upptime
 sites:
   - name: dev.fiftyone.ai
-    url: https://dev.fiftyone.ai
+    url: https://dev.fiftyone.ai/api/hello
   - name: staging.fiftyone.ai
-    url: https://staging.fiftyone.ai
+    url: https://staging.fiftyone.ai/api/hello
   - name: demo.fiftyone.ai
-    url: https://demo.fiftyone.ai
+    url: https://demo.fiftyone.ai/api/hello
   - name: voxel51.com
     url: https://voxel51.com
   - name: fiftyone.ai
