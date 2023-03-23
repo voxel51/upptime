@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.fiftyone.ai.ico",
     "slug": "dev-fiftyone-ai",
     "status": "down",
-    "uptime": "9.07%",
-    "uptimeDay": "9.07%",
-    "uptimeWeek": "9.07%",
-    "uptimeMonth": "9.07%",
-    "uptimeYear": "9.07%",
+    "uptime": "5.25%",
+    "uptimeDay": "5.25%",
+    "uptimeWeek": "5.25%",
+    "uptimeMonth": "5.25%",
+    "uptimeYear": "5.25%",
     "time": 499,
     "timeDay": 499,
     "timeWeek": 499,
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-03-23": 0
+      "2023-03-23": 1
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.fiftyone.ai.ico",
     "slug": "staging-fiftyone-ai",
     "status": "down",
-    "uptime": "9.03%",
-    "uptimeDay": "9.03%",
-    "uptimeWeek": "9.03%",
-    "uptimeMonth": "9.03%",
-    "uptimeYear": "9.03%",
+    "uptime": "4.21%",
+    "uptimeDay": "4.21%",
+    "uptimeWeek": "4.21%",
+    "uptimeMonth": "4.21%",
+    "uptimeYear": "4.21%",
     "time": 367,
     "timeDay": 367,
     "timeWeek": 367,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-03-23": 0
+      "2023-03-23": 1
     }
   },
   {
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.fiftyone.ai.ico",
     "slug": "demo-fiftyone-ai",
     "status": "down",
-    "uptime": "10.17%",
-    "uptimeDay": "10.17%",
-    "uptimeWeek": "10.17%",
-    "uptimeMonth": "10.17%",
-    "uptimeYear": "10.17%",
+    "uptime": "3.41%",
+    "uptimeDay": "3.41%",
+    "uptimeWeek": "3.41%",
+    "uptimeMonth": "3.41%",
+    "uptimeYear": "3.41%",
     "time": 488,
     "timeDay": 488,
     "timeWeek": 488,
