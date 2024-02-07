@@ -1,28 +1,30 @@
 owner: voxel51
 repo: upptime
 sites:
-  - name: dev.fiftyone.ai
-    url: https://dev.fiftyone.ai/api/hello
-  - name: staging.fiftyone.ai
-    url: https://staging.fiftyone.ai/api/hello
   - name: demo.fiftyone.ai
     url: https://demo.fiftyone.ai/api/hello
-  - name: voxel51.com
-    url: https://voxel51.com
-  - name: fiftyone.ai
-    url: https://fiftyone.ai
-  - name: www.voxel51.com
-    url: http://www.voxel51.com
-  - name: voxel51.fiftyone.ai
-    url: https://voxel51.fiftyone.ai
+  - name: dev.fiftyone.ai
+    url: https://dev.fiftyone.ai/api/hello
   - name: docs.voxel51.com
     url: https://docs.voxel51.com
+  - name: fiftyone.ai
+    url: https://fiftyone.ai
   - name: pypi.fiftyone.ai
     url: https://pypi.fiftyone.ai
     expectedStatusCodes:
       - 401
   - name: pypi.voxel51.com
     url: https://pypi.voxel51.com
+  - name: staging.fiftyone.ai
+    url: https://staging.fiftyone.ai/api/hello
+  - name: try.fiftyone.ai
+    url: https://try.fiftyone.ai/api/hello
+  - name: voxel51.com
+    url: https://voxel51.com
+  - name: voxel51.fiftyone.ai
+    url: https://voxel51.fiftyone.ai
+  - name: www.voxel51.com
+    url: http://www.voxel51.com
 assignees:
   - findtopher
 status-website:
