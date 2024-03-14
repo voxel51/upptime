@@ -168,18 +168,20 @@
     "url": "https://voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.com.ico",
     "slug": "voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 426,
-    "timeWeek": 263,
-    "timeMonth": 350,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "timeDay": 302,
+    "timeWeek": 253,
+    "timeMonth": 344,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2024-03-14": 0
+    }
   },
   {
     "name": "voxel51.fiftyone.ai",
