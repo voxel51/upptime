@@ -165,19 +165,19 @@
     "url": "https://voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.com.ico",
     "slug": "voxel51-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 471,
-    "timeWeek": 304,
-    "timeMonth": 284,
+    "time": 311,
+    "timeDay": 454,
+    "timeWeek": 317,
+    "timeMonth": 288,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 7
     }
   },
   {
@@ -215,19 +215,19 @@
     "url": "http://www.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.voxel51.com.ico",
     "slug": "www-voxel51-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 615,
-    "timeDay": 533,
-    "timeWeek": 477,
-    "timeMonth": 516,
-    "timeYear": 650,
+    "time": 616,
+    "timeDay": 589,
+    "timeWeek": 502,
+    "timeMonth": 522,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-03-26": 0,
+      "2024-03-26": 7,
       "2024-01-17": 29
     }
   }
