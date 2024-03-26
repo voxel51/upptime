@@ -165,18 +165,20 @@
     "url": "https://voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.com.ico",
     "slug": "voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 201,
-    "timeWeek": 241,
-    "timeMonth": 269,
-    "timeYear": 308,
-    "dailyMinutesDown": {}
+    "time": 310,
+    "timeDay": 471,
+    "timeWeek": 304,
+    "timeMonth": 284,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "voxel51.fiftyone.ai",
@@ -184,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.fiftyone.ai.ico",
     "slug": "voxel51-fiftyone-ai",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -213,18 +215,19 @@
     "url": "http://www.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.voxel51.com.ico",
     "slug": "www-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 614,
-    "timeDay": 368,
-    "timeWeek": 445,
-    "timeMonth": 510,
+    "time": 615,
+    "timeDay": 533,
+    "timeWeek": 477,
+    "timeMonth": 516,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2024-03-26": 0,
       "2024-01-17": 29
     }
   }
