@@ -1,7 +1,7 @@
 url: https://staging.fiftyone.ai/api/hello
-status: down
-code: 502
-responseTime: 125
-lastUpdated: 2024-06-28T16:08:55.724Z
+status: up
+code: 200
+responseTime: 55
+lastUpdated: 2024-06-28T16:55:10.686Z
 startTime: 2023-03-23T19:02:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
