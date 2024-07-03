@@ -1,7 +1,7 @@
 url: https://demo.fiftyone.ai/api/hello
-status: up
-code: 200
-responseTime: 176
-lastUpdated: 2024-07-02T23:00:42.302Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-07-03T17:08:28.224Z
 startTime: 2023-03-23T19:02:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
