@@ -64,19 +64,19 @@
     "url": "https://fiftyone.ai",
     "icon": "https://icons.duckduckgo.com/ip3/fiftyone.ai.ico",
     "slug": "fiftyone-ai",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "55.02%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "47.98%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "99.86%",
     "time": 217,
-    "timeDay": 171,
-    "timeWeek": 169,
-    "timeMonth": 169,
+    "timeDay": 169,
+    "timeWeek": 168,
+    "timeMonth": 168,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-08-13": 648
+      "2024-08-13": 749
     }
   },
   {
@@ -178,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/voxel51.fiftyone.ai.ico",
     "slug": "voxel51-fiftyone-ai",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
