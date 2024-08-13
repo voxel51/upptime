@@ -64,19 +64,19 @@
     "url": "https://fiftyone.ai",
     "icon": "https://icons.duckduckgo.com/ip3/fiftyone.ai.ico",
     "slug": "fiftyone-ai",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 221,
-    "timeDay": 167,
-    "timeWeek": 166,
-    "timeMonth": 167,
+    "timeDay": 155,
+    "timeWeek": 162,
+    "timeMonth": 166,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-08-13": 31
+      "2024-08-13": 115
     }
   },
   {
