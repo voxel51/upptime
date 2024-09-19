@@ -166,7 +166,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 245,
+    "timeDay": 280,
     "timeWeek": 262,
     "timeMonth": 315,
     "timeYear": 304,
@@ -216,5 +216,41 @@
     "dailyMinutesDown": {
       "2024-01-17": 29
     }
+  },
+  {
+    "name": "VoxelGPT-Dev",
+    "url": "$VOXELGPT_DEV_CHECK_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "voxel-gpt-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "VoxelGPT",
+    "url": "$VOXELGPT_CHECK_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "voxel-gpt",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
