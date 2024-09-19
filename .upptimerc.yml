@@ -30,8 +30,8 @@ sites:
   - name: VoxelGPT
     url: $VOXELGPT_CHECK_ENDPOINT
 assignees:
-  - findtopher
   - afoley587
+  - findtopher
 status-website:
   cname: upptime.voxel51.com
   logoUrl: https://voxel51.com/images/logo/voxel51-logo-horz-color-600dpi.png
