@@ -25,7 +25,12 @@ sites:
     url: https://voxel51.fiftyone.ai
   - name: www.voxel51.com
     url: http://www.voxel51.com
+  - name: VoxelGPT-Dev
+    url: $VOXELGPT_DEV_CHECK_ENDPOINT
+  - name: VoxelGPT
+    url: $VOXELGPT_CHECK_ENDPOINT
 assignees:
+  - afoley587
   - findtopher
 status-website:
   cname: upptime.voxel51.com
