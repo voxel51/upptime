@@ -100,19 +100,19 @@
     "url": "https://pypi.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.voxel51.com.ico",
     "slug": "pypi-voxel51-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 239,
-    "timeWeek": 270,
-    "timeMonth": 256,
+    "timeDay": 225,
+    "timeWeek": 263,
+    "timeMonth": 255,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-01": 6
     }
   },
   {
