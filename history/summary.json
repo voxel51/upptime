@@ -100,9 +100,9 @@
     "url": "https://pypi.voxel51.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.voxel51.com.ico",
     "slug": "pypi-voxel51-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 270,
     "timeMonth": 256,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 0
+    }
   },
   {
     "name": "staging.fiftyone.ai",
