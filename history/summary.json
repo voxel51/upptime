@@ -102,9 +102,9 @@
     "slug": "pypi-voxel51-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 259,
@@ -112,7 +112,8 @@
     "timeMonth": 258,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-02": 10,
+      "2024-11-01": 11
     }
   },
   {
