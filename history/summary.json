@@ -82,19 +82,19 @@
     "url": "https://pypi.fiftyone.ai",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.fiftyone.ai.ico",
     "slug": "pypi-fiftyone-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 239,
-    "timeWeek": 257,
-    "timeMonth": 285,
+    "timeDay": 233,
+    "timeWeek": 253,
+    "timeMonth": 283,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 10
     }
   },
   {
@@ -106,7 +106,7 @@
     "uptime": "98.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.68%",
+    "uptimeMonth": "69.66%",
     "uptimeYear": "97.47%",
     "time": 204,
     "timeDay": 244,
@@ -114,7 +114,7 @@
     "timeMonth": 242,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-11-11": 309,
+      "2024-11-11": 319,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
