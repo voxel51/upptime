@@ -15,8 +15,8 @@ sites:
       - 401
   - name: pypi.voxel51.com
     url: https://pypi.voxel51.com
-  - name: staging.fiftyone.ai
-    url: https://staging.fiftyone.ai/api/hello
+  - name: staging.rc.fiftyone.ai
+    url: https://staging.rc.fiftyone.ai/api/hello
   - name: try.fiftyone.ai
     url: https://try.fiftyone.ai/api/hello
   - name: voxel51.com
