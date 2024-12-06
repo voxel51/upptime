@@ -1,7 +1,7 @@
 url: $VOXELGPT_DEV_CHECK_ENDPOINT
 status: up
 code: 200
-responseTime: 93
-lastUpdated: 2024-12-05T23:01:01.438Z
+responseTime: 87
+lastUpdated: 2024-12-06T23:01:03.735Z
 startTime: 2024-09-23T19:34:46.053Z
 generator: Upptime <https://github.com/upptime/upptime>
