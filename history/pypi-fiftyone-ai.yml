@@ -1,7 +1,7 @@
 url: https://pypi.fiftyone.ai
-status: down
-code: 502
-responseTime: 9311
-lastUpdated: 2025-02-08T06:11:54.205Z
+status: up
+code: 401
+responseTime: 72
+lastUpdated: 2025-02-08T06:24:53.098Z
 startTime: 2022-07-19T20:22:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
